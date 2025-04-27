@@ -24,10 +24,6 @@ Created as part of the **Zomato Gen AI Internship assignment**, but designed to 
 ### 🤖 3. RAG Chatbot
 - Uses `sentence-transformers` to find relevant info for a query
 - Feeds that into `Flan-T5` (from Hugging Face) to generate natural responses
-- Supports queries like:
-  - “Show me vegan options at Chinese Wok”
-  - “Compare desserts between Pal Point and Pluto’s”
-  - “What’s the average spice level at XYZ?”
 
 ### 💬 4. Gradio UI
 - Lightweight, clean interface using Gradio
