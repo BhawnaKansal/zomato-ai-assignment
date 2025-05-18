@@ -1,4 +1,4 @@
-# 🍽️ Swiggy RAG Chatbot
+# 🍽️ Zomato RAG Chatbot
 
 Ever wanted to ask natural questions like “What vegan dishes are available nearby?” or “Which restaurant has the spiciest starters?” and get clear answers—without digging through dozens of menus?
 
